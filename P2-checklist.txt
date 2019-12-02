@@ -1,0 +1,71 @@
+		GTLegend FEATURE CHECKLIST
+
+
+Student Name: ___________Justin Lau_________________________________
+
+BASIC GAME FUNCTIONALITY
+
+__x__  Accelerometer moves the player
+
+__x__  Walls block character motion
+
+__x__  Omnipotent mode button walks through walls
+
+__x__  The first Map must be bigger than the screen (at least 50*50 tiles)
+
+__x__  Quest works (key & door work)
+
+__x__  Display Game Over when quest complete
+
+__x__  Status bar shows player coordinates
+
+__x__  Speech bubbles used in quest
+
+__x__  Art include at least one sprite
+
+
+EXTRA FEATURES (choose up to 10):
+
+____  Periodic change of treasure location w/ countdown clock
+
+____  Sound cues instead of sonar when get close to treasure
+
+____  Limited sonar use
+
+____  Localized movement of treasure
+
+____  Difficulty modes
+
+____  Sparkling treasure
+
+_x___  Fake treasure
+
+____  Improved tools available
+
+_x___  Start page
+
+____  Sound effects or background music
+
+_x___  Different modes of locomotion
+
+_x___  Animation for interactions with things in the Map
+
+____  Include a Game Menu for configuring the game
+
+_x___  Multiple lives and the possibility to lose
+
+_x___  Additional items that can be collected
+
+_x___  Manipulate map/move objects
+
+_x___  Mobile (walking) NPCs
+
+____  Player plays against an intelligent opponent in a game 
+
+____  Save the game (persistent)
+
+_x___  Multiple quests (>=2) / extra characters relevant to the quest(s) (>=5)
+
+____  Larger objects that can occlude the character
+
+_x___  Other: (please describe) 8+ Sprites
